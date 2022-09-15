@@ -16,3 +16,15 @@ You can get a VPS from just 2€/month at [AlphaVPS](https://alphavps.com/client
 ### Donations
 
 If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [cryptocurrency](https://pastebin.com/raw/M2JJpQpC). Thanks!
+
+
+1，安装 大便 10以上；
+
+2，一句话代码安装；
+
+3，下载配置文件；
+
+
+4，导入对应的客户端，如果是安卓模拟器需要开启储存权限，否则报错；
+
+5，该干嘛干嘛去。
