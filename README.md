@@ -14,7 +14,7 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 
 ### Donations
 
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [cryptocurrency](https://pastebin.com/raw/M2JJpQpC). Thanks!
+
 
 
 1，安装 大便 10以上；
